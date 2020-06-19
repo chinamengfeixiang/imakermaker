@@ -25,25 +25,3 @@ These sections will cover all the information you need to create your own subtit
 Remember to share this guide so that others can learn Jubler too!
 
 
-.. toctree::
-   :maxdepth: 2
-   :hidden:
-
-   beforeyoubegin
-
-.. toctree::
-   :maxdepth: 2
-   :hidden:
-   :caption: Beginners
-
-   creating
-   customizing
-   saving
-
-.. toctree::
-   :maxdepth: 2
-   :hidden:
-   :caption: Advanced
-
-   synchronizing
-   translating
