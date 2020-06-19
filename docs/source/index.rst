@@ -21,8 +21,7 @@ If you’re looking for Jubler’s more advanced features, click on the links be
  * :ref:`Synchronizing Subtitles <synchronize>`
  * :ref:`Translating Subtitles <translate>`
 
-These sections will cover all the information you need to create your own subtitled video.
-Remember to share this guide so that others can learn Jubler too!
+These sections 
 
 
 .. toctree::
