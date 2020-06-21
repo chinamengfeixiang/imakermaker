@@ -16,3 +16,5 @@
 
    synchronizing
    translating
+
+.. image:: /images/buganjiao.png
