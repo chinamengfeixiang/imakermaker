@@ -17,6 +17,10 @@
 【基础项目2】点亮LED灯
 ----------------------------------------
 
+.. raw:: html
+
+   <iframe width="640" height="480" src="//player.bilibili.com/player.html?aid=67166024&bvid=BV1vJ411N7AB&cid=116465364&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
 .. _blink:
 
 【基础项目3】让LED灯闪烁起来
