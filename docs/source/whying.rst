@@ -1,4 +1,4 @@
-.. _customize:
+.. _why:
 
-Customizing Subtitles
+为什学习编程
 ======================
