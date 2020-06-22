@@ -176,5 +176,9 @@ epub_exclude_files = ['search.html']
 
 
 # -- Extension configuration -------------------------------------------------
-html_context = { "display_github": False}
+html_context = {
+"display_github": False, 
+"last_updated": True,
+"commit": False,
+}
 
