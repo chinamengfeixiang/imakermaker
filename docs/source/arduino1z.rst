@@ -5,6 +5,6 @@
 
 .. raw:: html
 
-   <iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=67165841&bvid=BV1eJ411N7oZ&cid=116464881&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+   <iframe width="640" height="480" src="//player.bilibili.com/player.html?aid=67165841&bvid=BV1eJ411N7oZ&cid=116464881&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 
