@@ -15,8 +15,8 @@
 .. toctree::
    :maxdepth: 2
    :hidden:
-   :caption: Advanced
+   :caption: Scratch从入门到精通
 
-   synchronizing
-   translating
+   scratchingone
+   scratchingtwo
 
