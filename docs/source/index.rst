@@ -3,11 +3,11 @@
 .. toctree::
    :maxdepth: 2
    :hidden:
-   :caption: Beginners
+   :caption: 关于学习编程
 
-   creating
-   customizing
-   saving
+   whating
+   whying
+   howing
 
 .. toctree::
    :maxdepth: 2
