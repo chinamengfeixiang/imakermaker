@@ -105,8 +105,6 @@ html_static_path = ['_static']
 # Output file base name for HTML help builder.
 htmlhelp_basename = 'MakerMaker'
 
-#remove edit on github shown on read the docs
-html_show_sourcelink = False
 
 # -- Options for LaTeX output ------------------------------------------------
 
@@ -178,5 +176,5 @@ epub_exclude_files = ['search.html']
 
 
 # -- Extension configuration -------------------------------------------------
-html_context = { "display_github": False, # Add 'Edit on Github' link instead of 'View page source' "last_updated": True, "commit": False, }
+html_context = { "display_github": False}
 
