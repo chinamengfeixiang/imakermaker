@@ -103,7 +103,7 @@ html_static_path = ['_static']
 # -- Options for HTMLHelp output ---------------------------------------------
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'Jublerdoc'
+htmlhelp_basename = 'makermaker'
 
 
 # -- Options for LaTeX output ------------------------------------------------
@@ -130,8 +130,8 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'Jubler.tex', u'Jubler Documentation',
-     u'Audrey', 'manual'),
+    (master_doc, 'makermaker.tex', 'makermaker Documentation',
+     'makermaker.cc', 'manual'),
 ]
 
 
@@ -140,7 +140,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'jubler', u'Jubler Documentation',
+    (master_doc, 'makermaker', 'makermaker Documentation',
      [author], 1)
 ]
 
@@ -151,8 +151,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'Jubler', u'Jubler Documentation',
-     author, 'Jubler', 'One line description of project.',
+    (master_doc, 'makermaker', 'makermaker Documentation',
+     author, 'makermaker', 'One line description of project.',
      'Miscellaneous'),
 ]
 
