@@ -105,6 +105,13 @@ html_static_path = ['_static']
 # Output file base name for HTML help builder.
 htmlhelp_basename = 'MakerMaker'
 
+html_context = {
+"display_github": False, 
+"last_updated": True,
+"commit": False,
+}
+
+
 
 # -- Options for LaTeX output ------------------------------------------------
 
@@ -176,9 +183,4 @@ epub_exclude_files = ['search.html']
 
 
 # -- Extension configuration -------------------------------------------------
-html_context = {
-"display_github": False, 
-"last_updated": True,
-"commit": False,
-}
 
