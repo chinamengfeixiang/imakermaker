@@ -39,4 +39,14 @@
    :caption: Python从入门到精通
 
    python1z
+   
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: 值得推荐的STEAM项目
+
+   otto1z
+   makeymakey1z
+   bare1z
+   bailingniao1z
 
