@@ -3,14 +3,19 @@
 20个项目学会Arduino编程（基于mind+）
 =========================================
 
-.. _introduction:
+.. _introduction
 
-【基础项目1】Arduino主板及图形化编程软件mind+简介
+【课程简介】Arduino主板及图形化编程
 --------------------------------------------------------------
 
 .. raw:: html
 
    <iframe width="640" height="480" src="//player.bilibili.com/player.html?aid=67165841&bvid=BV1eJ411N7oZ&cid=116464881&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
+.. _aboutmind:
+
+【基础项目1】Arduino主板及图形化编程软件mind+简介
+--------------------------------------------------------------
 
 .. _led:
 
@@ -19,22 +24,34 @@
 
 .. raw:: html
 
-   <iframe width="640" height="480" src="//player.bilibili.com/player.html?aid=67166024&bvid=BV1vJ411N7AB&cid=116465364&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+   <iframe width="640" height="480" src="//player.bilibili.com/player.html?aid=67165841&bvid=BV1eJ411N7oZ&cid=116464881&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 .. _blink:
 
 【基础项目3】让LED灯闪烁起来
 ---------------------------------------------
 
+.. raw:: html
+
+   <iframe width="640" height="480" src="//player.bilibili.com/player.html?aid=67166024&bvid=BV1vJ411N7AB&cid=116465364&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
 .. _light:
 
 【基础项目4】光感实验
 --------------------------------------------------------------
 
+.. raw:: html
+
+    <iframe width="640" height="480" src="//player.bilibili.com/player.html?aid=67166171&bvid=BV1vJ411N7cK&cid=116465664&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
 .. _irtracker:
 
 【基础项目5】红外循迹传感器
 ----------------------------------------
+
+.. raw:: html
+
+<iframe width="640" height="480" src="//player.bilibili.com/player.html?aid=67166297&bvid=BV1iJ411N7or&cid=116465877&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 .. _buzzer:
 
