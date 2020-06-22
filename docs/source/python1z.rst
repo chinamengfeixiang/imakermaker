@@ -1,6 +1,6 @@
-.. _scratchone:
+.. _python1:
 
-边学边玩Scratch 3.0少儿编程
+中小学Python图形化编程
 ===============================
 
 This is a demo for **Write the Docs**.

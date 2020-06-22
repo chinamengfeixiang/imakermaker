@@ -1,4 +1,4 @@
-【MakerMaker.cc】一个小而美的创客学习服务平台
+【makermaker.cc】一个小而美的创客学习服务平台
 ===============================================
 
 .. image:: /images/buganjiao.png
@@ -17,26 +17,26 @@
    :hidden:
    :caption: Scratch从入门到精通
 
-   scratchz
+   scratch1z
    
 .. toctree::
    :maxdepth: 2
    :hidden:
    :caption: micro:bit从入门到精通
 
-   microbitz
+   microbit1z
    
 .. toctree::
    :maxdepth: 2
    :hidden:
    :caption: Arduino从入门到精通
 
-   arduinoz
+   arduino1z
    
 .. toctree::
    :maxdepth: 2
    :hidden:
    :caption: Python从入门到精通
 
-   pythonz
+   python1z
 

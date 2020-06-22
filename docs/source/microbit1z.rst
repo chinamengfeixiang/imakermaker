@@ -1,6 +1,6 @@
-.. _scratchone:
+.. _microbit1:
 
-边学边玩Scratch 3.0少儿编程
+20个项目学会micro:bit编程
 ===============================
 
 This is a demo for **Write the Docs**.

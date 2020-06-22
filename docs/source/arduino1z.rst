@@ -1,7 +1,7 @@
-.. _scratchone:
+.. _arduino1:
 
-边学边玩Scratch 3.0少儿编程
-===============================
+20个项目学会Arduino编程（基于mind+）
+=========================================
 
 This is a demo for **Write the Docs**.
 
