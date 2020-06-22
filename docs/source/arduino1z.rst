@@ -134,6 +134,8 @@
 
 .. raw:: html
 
+   <iframe width="640" height="480" src="//player.bilibili.com/player.html?aid=67170437&bvid=BV1BJ411N7ur&cid=116472773&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
 .. _irrgb:
 
 【综合项目15】红外遥控彩灯
@@ -141,8 +143,8 @@
 
 .. raw:: html
 
-   <iframe width="640" height="480" src="//player.bilibili.com/player.html?aid=67170437&bvid=BV1BJ411N7ur&cid=116472773&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-
+   <iframe width="640" height="480" src="//player.bilibili.com/player.html?aid=67170610&bvid=BV1BJ411N7j8&cid=116473087&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+   
 .. _sonarrobot:
 
 【综合项目16】超声避障机器人
