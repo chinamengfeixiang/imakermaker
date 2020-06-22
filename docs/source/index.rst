@@ -8,15 +8,35 @@
    :hidden:
    :caption: 关于学习编程
 
-   whying
-   whating
-   howing
+   whyz
+   whatz
+   howz
 
 .. toctree::
    :maxdepth: 2
    :hidden:
    :caption: Scratch从入门到精通
 
-   scratch/scratchingone
-   scratch/scratchingtwo
+   scratchz
+   
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: micro:bit从入门到精通
+
+   microbitz
+   
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: Arduino从入门到精通
+
+   arduinoz
+   
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: Python从入门到精通
+
+   pythonz
 

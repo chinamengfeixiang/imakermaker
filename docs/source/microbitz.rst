@@ -1,7 +1,7 @@
-.. _synchronize:
+.. _scratchone:
 
-Synchronizing Subtitles
-========================
+边学边玩Scratch 3.0少儿编程
+===============================
 
 This is a demo for **Write the Docs**.
 
