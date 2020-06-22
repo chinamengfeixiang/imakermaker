@@ -106,11 +106,7 @@ html_static_path = ['_static']
 htmlhelp_basename = 'MakerMaker'
 
 #remove edit on github shown on read the docs
-html_context = {
-"display_github": False, # Add 'Edit on Github' link instead of 'View page source'
-"last_updated": True,
-"commit": False,
-}
+html_show_sourcelink = False
 
 # -- Options for LaTeX output ------------------------------------------------
 
