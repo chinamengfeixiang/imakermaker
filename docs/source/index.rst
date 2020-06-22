@@ -5,8 +5,8 @@
    :hidden:
    :caption: 关于学习编程
 
-   whating
    whying
+   whating
    howing
 
 .. toctree::
