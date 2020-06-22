@@ -17,6 +17,6 @@
    :hidden:
    :caption: Scratch从入门到精通
 
-   scratchingone
-   scratchingtwo
+   scratch/scratchingone
+   scratch/scratchingtwo
 
