@@ -11,6 +11,7 @@
    whyz
    whatz
    howz
+   authorz
 
 .. toctree::
    :maxdepth: 2
@@ -37,6 +38,13 @@
    :maxdepth: 2
    :hidden:
    :caption: Python从入门到精通
+
+   python1z
+   
+   .. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: 全国青少年机器人技术等级考试
 
    python1z
    
