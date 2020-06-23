@@ -7,7 +7,7 @@
 
 【视频配套器材】
 ---------------------
- .. image:: /images/Arobotv30.JPG
+.. image:: /images/Arobotv30.JPG
 
   淘宝购买链接 `A-robot v3.0机器人小车 <https://item.taobao.com/item.htm?spm=a1z10.1-c-s.w4004-21761057900.25.194c2b5eq5j0fP&id=602191513988>`_ / `Power UNO主板 <https://item.taobao.com/item.htm?spm=a1z10.1-c-s.w4004-21761057900.15.194c2b5eq5j0fP&id=601888180558>`_ 
 
