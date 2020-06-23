@@ -43,7 +43,7 @@
 
    python1z
    
-   .. toctree::
+.. toctree::
    :maxdepth: 2
    :hidden:
    :caption: 全国青少年机器人技术等级考试
