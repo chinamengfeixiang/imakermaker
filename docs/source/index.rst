@@ -33,6 +33,8 @@
    :caption: Arduino从入门到精通
 
    arduino1z
+   arduino2z
+   arduino3z
    
 .. toctree::
    :maxdepth: 2
@@ -46,7 +48,7 @@
    :hidden:
    :caption: 全国青少年机器人技术等级考试
 
-   python1z
+   kaoshiz
    
 .. toctree::
    :maxdepth: 2
