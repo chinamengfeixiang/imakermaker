@@ -5,7 +5,8 @@
 
 .. _robot3tb:
 
-【视频配套器材】淘宝购买链接 <http://www.taobao.org/>`_.
+【视频配套器材】淘宝购买链接 
+<http://www.taobao.org/>`_.
 
 .. _introduction
 
