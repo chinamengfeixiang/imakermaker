@@ -5,7 +5,10 @@
 
 .. _robot3tb:
 
-【视频配套器材】淘宝购买链接 `Power UNO主板 <https://item.taobao.com/item.htm?spm=a1z10.1-c-s.w4004-21761057900.15.194c2b5eq5j0fP&id=601888180558>`_   `A-robot v3.0机器人小车 <https://item.taobao.com/item.htm?spm=a1z10.1-c-s.w4004-21761057900.25.194c2b5eq5j0fP&id=602191513988>`_
+【视频配套器材】
+---------------------
+
+淘宝购买链接 `A-robot v3.0机器人小车 <https://item.taobao.com/item.htm?spm=a1z10.1-c-s.w4004-21761057900.25.194c2b5eq5j0fP&id=602191513988>`_ / `Power UNO主板 <https://item.taobao.com/item.htm?spm=a1z10.1-c-s.w4004-21761057900.15.194c2b5eq5j0fP&id=601888180558>`_ 
 
 .. _introduction
 
