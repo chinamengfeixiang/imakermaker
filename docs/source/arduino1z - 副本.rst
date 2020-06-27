@@ -14,20 +14,30 @@
 
 .. _introduction
 
-【课程简介】Arduino主板及图形化编程  
-----------------------------------------------------------
+【课程简介】Arduino主板及图形化编程
+--------------------------------------------------------------
 
-【课程简介】Arduino主板及图形化编程 <https://www.bilibili.com/video/BV1eJ411N7oZ>`_
+.. raw:: html
+
+   <iframe width="640" height="480" src="//player.bilibili.com/player.html?aid=67165841&bvid=BV1eJ411N7oZ&cid=116464881&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 .. _aboutmind:
 
 【基础项目1】Arduino主板及图形化编程软件mind+简介
 --------------------------------------------------------------
 
+.. raw:: html
+
+   <iframe width="640" height="480" src="//player.bilibili.com/player.html?aid=67166024&bvid=BV1vJ411N7AB&cid=116465364&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
 .. _led:
 
 【基础项目2】点亮LED灯
 ----------------------------------------
+
+.. raw:: html
+
+    <iframe width="640" height="480" src="//player.bilibili.com/player.html?aid=67166171&bvid=BV1vJ411N7cK&cid=116465664&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 .. _blink:
 
