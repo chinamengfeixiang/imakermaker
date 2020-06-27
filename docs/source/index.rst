@@ -11,7 +11,7 @@
    whyz
    whatz
    howz
-   authorz
+   helpz
 
 .. toctree::
    :maxdepth: 2
