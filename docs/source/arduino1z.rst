@@ -17,7 +17,7 @@
 【课程简介】Arduino主板及图形化编程  
 ----------------------------------------------------------
 
-【课程简介】Arduino主板及图形化编程 <https://www.bilibili.com/video/BV1eJ411N7oZ>`_
+‘Arduino主板及图形化编程 <https://www.bilibili.com/video/BV1eJ411N7oZ>`_
 
 .. _aboutmind:
 
