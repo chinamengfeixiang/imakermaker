@@ -17,11 +17,15 @@
 【视频教程汇总】
 -----------------------
 
+.. note:: 
+
+建议鼠标右击对应的项目名称，选择在“新标签页中打开链接” 
+
 `【课程简介】Arduino主板及图形化编程  <https://www.bilibili.com/video/BV1eJ411N7oZ>`_
 
-'【基础项目1】Arduino主板及图形化编程软件mind+简介 <https://www.bilibili.com/video/BV1vJ411N7AB?zw>'_
+`【基础项目1】Arduino主板及图形化编程软件mind+简介 <https://www.bilibili.com/video/BV1vJ411N7AB?zw>`_
 
-'【基础项目2】点亮LED灯 
+`【基础项目2】点亮LED灯 
 
 
 【基础项目3】让LED灯闪烁起来
