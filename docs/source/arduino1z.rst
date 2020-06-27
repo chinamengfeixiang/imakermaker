@@ -12,22 +12,16 @@
 
 .. image:: /images/Arobotv30.JPG
 
-.. _introduction
+.. _videotutorial:
 
-【课程简介】Arduino主板及图形化编程  
-----------------------------------------------------------
+【视频教程汇总】
+-----------------------
 
-‘Arduino主板及图形化编程 <https://www.bilibili.com/video/BV1eJ411N7oZ>`_
+'【课程简介】Arduino主板及图形化编程  <https://www.bilibili.com/video/BV1eJ411N7oZ>`_
 
-.. _aboutmind:
+'【基础项目1】Arduino主板及图形化编程软件mind+简介 <https://www.bilibili.com/video/BV1vJ411N7AB?zw>'_
 
-【基础项目1】Arduino主板及图形化编程软件mind+简介
---------------------------------------------------------------
-
-.. _led:
-
-【基础项目2】点亮LED灯
-----------------------------------------
+'【基础项目2】点亮LED灯 
 
 .. _blink:
 
