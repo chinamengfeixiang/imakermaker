@@ -5,7 +5,7 @@ OTTO 3D打印跳舞机器人
 
 .. raw:: html
   
-   <iframe width="800" height="600" src="//player.bilibili.com/player.html?aid=883646958&bvid=BV1iK4y147Yf&cid=206665924&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+   <iframe width="640" height="480" src="//player.bilibili.com/player.html?aid=883646958&bvid=BV1iK4y147Yf&cid=206665924&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 .. image:: /images/otto.jpg
 
