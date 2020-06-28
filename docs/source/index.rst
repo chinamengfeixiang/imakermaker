@@ -33,6 +33,7 @@
    :caption: Arduino从入门到精通
 
    arduino1z
+   arduino4z
    arduino2z
    arduino3z
    
