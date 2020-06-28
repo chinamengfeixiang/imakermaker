@@ -26,6 +26,8 @@
    :caption: micro:bit从入门到精通
 
    microbit1z
+   microbit2z
+   microbit3z
    
 .. toctree::
    :maxdepth: 2
