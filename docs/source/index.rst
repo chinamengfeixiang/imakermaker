@@ -56,7 +56,7 @@
 .. toctree::
    :maxdepth: 2
    :hidden:
-   :caption: 10天学会51单片机
+   :caption: 51单片机教程
 
    danpianji
    

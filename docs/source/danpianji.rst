@@ -14,7 +14,7 @@
 
 .. note::
 
-   建议鼠标右击对应的项目名称，选择在“新标签页中打开链接” ，转到bilibili.com官网观看高清视频
+   鼠标右击对应的项目名称，选择在“新标签页中打开链接” ，转到bilibili.com官网观看高清视频
 
 `郭天祥10天学会51单片机视频教程汇总 <https://www.bilibili.com/video/BV1jT4y1E7Mr>`_
 
