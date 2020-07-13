@@ -56,6 +56,13 @@
 .. toctree::
    :maxdepth: 2
    :hidden:
+   :caption: 10天学会51单片机
+
+   danpianji
+   
+.. toctree::
+   :maxdepth: 2
+   :hidden:
    :caption: 值得推荐的STEAM项目
 
    otto1z
