@@ -6,7 +6,14 @@
 .. important::
 
    【购买器材用户专享】提供课程相关文档、源程序、相关软件和相关技术支持
+  
+请到千聊平台观看，扫描图片二维码或者点击下方文字链接
+======================================================
 
-测试
-=========================================
 .. image:: /images/robot_class3.jpg
+
+   `全国青少年机器人技术等级考试3级课程 <https://m.qlchat.com/live/channel/channelPage/2000010935369825.htm>`_
+
+.. image:: /images/robot_class4.jpg
+
+   `全国青少年机器人技术等级考试4级课程 <https://m.qlchat.com/live/channel/channelPage/2000010943358672.htm>`_
